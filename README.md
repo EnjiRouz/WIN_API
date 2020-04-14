@@ -1,2 +1,5 @@
 # WIN_API
-The scariest thing I've ever written
+The scariest thing I've ever written (Operating Systems Course)
+
+Если вы не писали на WIN API - то вы не знаете, насколько это больно. Все ваши БДСМ-техники просто отдыхают.
+Проект под номером 6 (жаль, что не 666) - это самое хардкодное, что я когда-либо писала.
